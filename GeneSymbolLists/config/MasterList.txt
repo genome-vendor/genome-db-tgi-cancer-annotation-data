@@ -47,12 +47,15 @@ Kinase_GO0016301	Kinase_GO0016301.txt	Kinase (GO)	Gene Ontology
 Kinase_KinBase	Kinase_KinBase.txt	Kinase (KinBase)	Kinbase
 Kinase_Kincat	Kinase_Kincat.txt	Kinase (Kincat)	Kincat
 Kinase_RonBose	Kinase_RonBose.txt	Kinase (Ron Bose)	Ron Bose Personal Communication
+Kinase_dgidb	Kinase_dgidb.txt	All kinases from dgidb	DGIdb (v1.41 - sha1 d5c10d3)
 KitReceptorPathway_CCMP	KitReceptorPathway_CCMP.txt	Kit Receptor Pathway (CCMP)	Cancer Cell Map Pathway via MSKCC Cancer Genes
 LargeDeletion_SangerCGC	LargeDeletion_SangerCGC.txt	Large Deletion (CGC)	Sanger CGC via MSKCC Cancer Genes
 LipidKinase_GO0001727	LipidKinase_GO0001727.txt	Lipid Kinase (GO)	Gene Ontology
 MAPKSignaling_KEGGhsa04010	MAPKSignaling_KEGGhsa04010.txt	MAPK Signaling Pathway (KEGG)	KEGG
 MelanomaCancer_KEGGhsa05218	MelanomaCancer_KEGGhsa05218.txt	Melanoma Cancer Pathway (KEGG)	KEGG
 MissenseMutation_SangerCGC	MissenseMutation_SangerCGC.txt	Missense Mutation (CGC)	Sanger CGC via MSKCC Cancer Genes
+MitelmanFivePrime	MitelmanFivePrime.txt	3' partners from Mitelman fusion db	CGAP
+MitelmanThreePrime	MitelmanThreePrime.txt	3' partners from Mitelman fusion db	CGAP
 NeutralZincMetallopeptidases_GO0008237	NeutralZincMetallopeptidases_GO0008237.txt	Neutral Zinc Metallopeptidases (GO)	Gene Ontology
 NonSmallCellLungCancer_KEGGhsa05223	NonSmallCellLungCancer_KEGGhsa05223.txt	Non Small Cell Lung Cancer Pathway (KEGG)	KEGG
 NonsenseMutation_SangerCGC	NonsenseMutation_SangerCGC.txt	Nonsense Mutation (CGC)	Sanger CGC via MSKCC Cancer Genes
@@ -63,6 +66,7 @@ PPARSignaling_KEGGhsa03320	PPARSignaling_KEGGhsa03320.txt	PPAR Signaling Pathway
 PancreaticCancer_KEGGhsa05212	PancreaticCancer_KEGGhsa05212.txt	Pancreatic Cancer Pathway (KEGG)	KEGG
 Phosphatase_Entrez	Phosphatase_Entrez.txt	Phosphatase (Entrez)	Entrez via MSKCC Cancer Genes
 Phospholipase_GO0004620	Phospholipase_GO0004620.txt	Phospholipase (GO)	Gene Ontology
+Phosphatase_dgidb	Phosphatase_dgidb.txt	All phosphatases from dgidb	DGIdb (v1.41 - sha1 d5c10d3)
 ProstateCancer_KEGGhsa05215	ProstateCancer_KEGGhsa05215.txt	Prostate Cancer Pathway (KEGG)	KEGG
 ProteaseInhibitorActivity_GO0030414	ProteaseInhibitorActivity_GO0030414.txt	Protease Inhibitor Activity (GO)	Gene Ontology
 ProteinKinase_Entrez	ProteinKinase_Entrez.txt	Protein Kinase (Entrez)	Entrez via MSKCC Cancer Genes
