@@ -58,12 +58,15 @@ Kinase_GO0016301	Kinase (GO)	Kinase_GO0016301
 Kinase_KinBase	Kinase (KinBase)	Kinase_KinBase
 Kinase_Kincat	Kinase (Kincat)	Kinase_Kincat
 Kinase_RonBose	Kinase (Ron Bose)	Kinase_RonBose
+Kinase_dgidb	Kinase_dgidb	Kinase_dgidb
 KitReceptorPathway_CCMP	Kit Receptor Pathway (CCMP)	KitReceptorPathway_CCMP
 LargeDeletion_SangerCGC	Large Deletion (CGC)	LargeDeletion_SangerCGC
 LipidKinase_GO0001727	Lipid Kinase (GO)	LipidKinase_GO0001727
 MAPKSignaling_KEGGhsa04010	MAPK Signaling Pathway (KEGG)	MAPKSignaling_KEGGhsa04010
 MelanomaCancer_KEGGhsa05218	Melanoma Cancer Pathway (KEGG)	MelanomaCancer_KEGGhsa05218
 MissenseMutation_SangerCGC	Missense Mutation (CGC)	MissenseMutation_SangerCGC
+MitelmanFivePrime	MitelmanFivePrime	MitelmanFivePrime
+MitelmanThreePrime	MitelmanThreePrime	MitelmanThreePrime
 NeutralZincMetallopeptidases_GO0008237	Neutral Zinc Metallopeptidases (GO)	NeutralZincMetallopeptidases_GO0008237
 NonSmallCellLungCancer_KEGGhsa05223	Non Small Cell Lung Cancer Pathway (KEGG)	NonSmallCellLungCancer_KEGGhsa05223
 NonsenseMutation_SangerCGC	Nonsense Mutation (CGC)	NonsenseMutation_SangerCGC
@@ -73,6 +76,7 @@ Oncogene_Entrez	Oncogene (Entrez)	Oncogene_Entrez
 PPARSignaling_KEGGhsa03320	PPAR Signaling Pathway (KEGG)	PPARSignaling_KEGGhsa03320
 PancreaticCancer_KEGGhsa05212	Pancreatic Cancer Pathway (KEGG)	PancreaticCancer_KEGGhsa05212
 Phosphatase_Entrez	Phosphatase (Entrez)	Phosphatase_Entrez
+Phosphatase_dgidb	Phosphatase_dgidb	Phosphatase_dgidb
 Phospholipase_GO0004620	Phospholipase (GO)	Phospholipase_GO0004620
 ProstateCancer_KEGGhsa05215	Prostate Cancer Pathway (KEGG)	ProstateCancer_KEGGhsa05215
 ProteaseInhibitorActivity_GO0030414	Protease Inhibitor Activity (GO)	ProteaseInhibitorActivity_GO0030414
