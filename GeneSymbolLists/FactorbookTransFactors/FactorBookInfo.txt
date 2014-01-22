@@ -1,0 +1,124 @@
+EntrezSymbol	OriginalName	EntrezID	EntrezDescription
+FOS	c-Fos	2353	FBJ murine osteosarcoma viral oncogene homolog
+FOXA2	FOXA2	3170	forkhead box A2
+IRF4	IRF4	3662	interferon regulatory factor 4
+BRCA1	BRCA1	672	breast cancer 1, early onset
+YY1	YY1	7528	YY1 transcription factor
+ETS1	ETS1	2113	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)
+TCF12	TCF12	6938	transcription factor 12
+SPI1	PU.1	6688	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+ESR1	ERalpha_a	2099	estrogen receptor 1
+GATA2	GATA2	2624	GATA binding protein 2
+ZNF263	ZNF263	10127	zinc finger protein 263
+REST	NRSF	5978	RE1-silencing transcription factor
+KAT2A	GCN5	2648	K(lysine) acetyltransferase 2A
+RXRA	RXRA	6256	retinoid X receptor, alpha
+NR2C2	TR4	7182	nuclear receptor subfamily 2, group C, member 2
+PAX5	PAX5	5079	paired box 5
+GTF2B	GTF2B	2959	general transcription factor IIB
+POU2F2	POU2F2	5452	POU class 2 homeobox 2
+STAT3	STAT3	6774	signal transducer and activator of transcription 3 (acute-phase response factor)
+SMARCB1	Ini1	6598	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+HNF4A	HNF4A	3172	hepatocyte nuclear factor 4, alpha
+ZZZ3	ZZZ3	26009	zinc finger, ZZ-type containing 3
+SETDB1	SETDB1	9869	SET domain, bifurcated 1
+MYC	c-Myc	4609	v-myc myelocytomatosis viral oncogene homolog (avian)
+CTCF	CTCF	10664	CCCTC-binding factor (zinc finger protein)
+GTF3C2	TFIIIC-110	2976	general transcription factor IIIC, polypeptide 2, beta 110kDa
+SUZ12	SUZ12	23512	suppressor of zeste 12 homolog (Drosophila)
+MAFK	MafK	7975	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+ESRRA	ERRA	2101	estrogen-related receptor alpha
+FOSL1	FOSL1	8061	FOS-like antigen 1
+PPARGC1A	PGC1A	10891	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha
+STAT2	STAT2	6773	signal transducer and activator of transcription 2, 113kDa
+FAM48A	SPT20	55578	family with sequence similarity 48, member A
+SMC3	SMC3	9126	structural maintenance of chromosomes 3
+SREBF2	SREBP2	6721	sterol regulatory element binding transcription factor 2
+FOSL2	FOSL2	2355	FOS-like antigen 2
+JUN	c-Jun	3725	jun proto-oncogene
+E2F6	E2F6	1876	E2F transcription factor 6
+RDBP	NELFe	7936	RD RNA binding protein
+SRF	SRF	6722	serum response factor (c-fos serum response element-binding transcription factor)
+NR3C1	GR	2908	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+STAT1	STAT1	6772	signal transducer and activator of transcription 1, 91kDa
+BDP1	BDP1	55814	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB
+BHLHE40	BHLHE40	8553	basic helix-loop-helix family, member e40
+SIX5	SIX5	147912	SIX homeobox 5
+CTCFL	CTCFL	140690	CCCTC-binding factor (zinc finger protein)-like
+ZNF274	ZNF274	10782	zinc finger protein 274
+ATF3	ATF3	467	activating transcription factor 3
+TCF4	TCF4	6925	transcription factor 4
+POU5F1	POU5F1	5460	POU class 5 homeobox 1
+FOXP2	FOXP2	93986	forkhead box P2
+HMGN3	HMGN3	9324	high mobility group nucleosomal binding domain 3
+TBP	TBP	6908	TATA box binding protein
+RAD21	Rad21	5885	RAD21 homolog (S. pombe)
+ZNF143	Znf143	7702	zinc finger protein 143
+EP300	p300	2033	E1A binding protein p300
+NRF1	Nrf1	4899	nuclear respiratory factor 1
+SIN3A	Sin3Ak-20	25942	SIN3 homolog A, transcription regulator (yeast)
+TFAP2C	AP-2gamma	7022	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)
+BATF	BATF	10538	basic leucine zipper transcription factor, ATF-like
+ZEB1	ZEB1	6935	zinc finger E-box binding homeobox 1
+RFX5	RFX5	5993	regulatory factor X, 5 (influences HLA class II expression)
+MEF2A	MEF2A	4205	myocyte enhancer factor 2A
+MAX	Max	4149	MYC associated factor X
+CTBP2	CtBP2	1488	C-terminal binding protein 2
+HSF1	HSF1	3297	heat shock transcription factor 1
+SIRT6	SIRT6	51548	sirtuin 6
+BCLAF1	BCLAF1	9774	BCL2-associated transcription factor 1
+MAFF	MafF	23764	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+POLR3G	Pol3	10622	polymerase (RNA) III (DNA directed) polypeptide G (32kD)
+MXI1	Mxi1	4601	MAX interactor 1
+ELK4	ELK4	2005	ELK4, ETS-domain protein (SRF accessory protein 1)
+SREBF1	SREBP1	6720	sterol regulatory element binding transcription factor 1
+EGR1	Egr-1	1958	early growth response 1
+USF2	USF2	7392	upstream transcription factor 2, c-fos interacting
+CEBPB	CEBPB	1051	CCAAT/enhancer binding protein (C/EBP), beta
+BCL3	BCL3	602	B-cell CLL/lymphoma 3
+ELF1	ELF1	1997	E74-like factor 1 (ets domain transcription factor)
+POLR3A	RPC155	11128	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa
+GABPA	GABP	2551	GA binding protein transcription factor, alpha subunit 60kDa
+SP1	SP1	6667	Sp1 transcription factor
+HEY1	HEY1	23462	hairy/enhancer-of-split related with YRPW motif 1
+PBX3	Pbx3	5090	pre-B-cell leukemia homeobox 3
+NFKB1	NFKB	4790	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+TRIM28	KAP1	10155	tripartite motif containing 28
+ZBTB33	ZBTB33	10009	zinc finger and BTB domain containing 33
+GATA1	GATA1	2623	GATA binding protein 1 (globin transcription factor 1)
+IRF1	IRF1	3659	interferon regulatory factor 1
+PRDM1	PRDM1	639	PR domain containing 1, with ZNF domain
+NFE2	NF-E2	4778	nuclear factor (erythroid-derived 2), 45kDa
+SMARCC1	BAF155	6599	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1
+GTF2F1	GTF2F1	2962	general transcription factor IIF, polypeptide 1, 74kDa
+USF1	USF1	7391	upstream transcription factor 1
+TAF1	TAF1	6872	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa
+TAL1	TAL1	6886	T-cell acute lymphocytic leukemia 1
+IRF3	IRF3	3661	interferon regulatory factor 3
+EBF1	EBF1	1879	early B-cell factor 1
+NFYB	NF-YB	4801	nuclear transcription factor Y, beta
+E2F1	E2F1	1869	E2F transcription factor 1
+CCNT2	CCNT2	905	cyclin T2
+THAP1	THAP1	55145	THAP domain containing, apoptosis associated protein 1
+SMARCA4	Brg1	6597	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+SMARCC2	BAF170	6601	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+GATA3	GATA3	2625	GATA binding protein 3
+JUND	JunD	3727	jun D proto-oncogene
+HNF4G	HNF4G	3174	hepatocyte nuclear factor 4, gamma
+MEF2C	MEF2C	4208	myocyte enhancer factor 2C
+CHD2	CHD2	1106	chromodomain helicase DNA binding protein 2
+NANOG	NANOG	79923	Nanog homeobox
+NFYA	NF-YA	4800	nuclear transcription factor Y, alpha
+SP2	SP2	6668	Sp2 transcription factor
+E2F4	E2F4	1874	E2F transcription factor 4, p107/p130-binding
+ZBTB7A	ZBTB7A	51341	zinc finger and BTB domain containing 7A
+BRF2	BRF2	55290	BRF2, subunit of RNA polymerase III transcription initiation factor, BRF1-like
+FOXA1	FOXA1	3169	forkhead box A1
+XRCC4	XRCC4	7518	X-ray repair complementing defective repair in Chinese hamster cells 4
+BCL11A	BCL11A	53335	B-cell CLL/lymphoma 11A (zinc finger protein)
+HDAC2	HDAC2	3066	histone deacetylase 2
+POLR2A	Pol2	5430	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa
+WRNIP1	WHIP	56897	Werner helicase interacting protein 1
+BRF1	BRF1	2972	BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB (S. cerevisiae)
+TAF7	TAF7	6879	TAF7 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 55kDa
+TFAP2A	AP-2alpha	7020	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
