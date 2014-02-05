@@ -4,3 +4,5 @@
 #Export all results to 'File' in format 'TSV'
 #Then hit the 'Results' button and save the file.  Move it to the clinseq annotation dirs and rename appropriately
 
+
+

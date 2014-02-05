@@ -13,4 +13,3 @@ perl -ne 'if ($_ =~ /^9606\s+/){print "$_"}' gene_info.all > gene_info.human
 
 #Clean up the unneeded files and commit to git
 rm -f gene2accession.all gene_info.all
-
